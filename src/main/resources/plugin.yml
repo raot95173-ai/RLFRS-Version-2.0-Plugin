@@ -1,0 +1,6 @@
+name: RLFRS
+version: 2.0
+main: com.raiyanserver.rlfrs.RLFRS
+api-version: '1.21'
+author: Raiyan Server Company Limited
+description: Raiyan Lag Fix and Raiyan Secure official version 2.0.
